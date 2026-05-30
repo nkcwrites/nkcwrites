@@ -1,0 +1,14 @@
+baseURL = 'https://nkcwrites.com/'
+languageCode = 'en-us'
+title = 'NKC Writes'
+theme = 'PaperMod'
+
+[pagination]
+pagerSize = 5
+
+[params]
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
